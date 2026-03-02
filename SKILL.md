@@ -45,10 +45,6 @@ Tu tarea es recorrer una lista predefinida de páginas web correspondientes a lo
    * Si no encuentras el enlace "Tarifario" en una página, o si la página principal no está disponible, registra el evento en un archivo resumen llamado `Estado_Extraccion.txt` dentro de la misma carpeta indicando qué pasó con ese banco.
    * Continúa con el siguiente banco de la lista sin detener la ejecución global.
 
-6. **Creación de Tabla de Comparación y Resumen:**
-   * Al finalizar la extracción de todos los bancos, consolida la información extraída (leyendo los PDFs descargados y los archivos de texto InfoWeb).
-   * Agrupa los datos y genera un archivo final (puede ser `Resumen_Comparativo.md` o un archivo CSV) que contenga una tabla comparativa con los principales tipos de tasas, comisiones y servicios de cada banco.
-   * Esto permitirá al usuario tener una vista rápida y consolidada de todos los tarifarios recopilados.
 
 ## Resultado Esperado
 Al finalizar, la skill debe reportar al usuario que ha terminado y mostrar un resumen de cuántos tarifarios fueron exitosamente extraídos (PDFs y textos) y cuántos fallaron. El usuario debe poder ir directamente a la carpeta para consultar la información resultante.
