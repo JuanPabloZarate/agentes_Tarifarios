@@ -22,17 +22,10 @@ Basado en la extracción realizada, se han identificado los siguientes productos
 
 ## Pasos para la Organización
 
-1.  **Clasificación por Carpeta:**
-    Crea subcarpetas dentro de la carpeta con fecha para agrupar los archivos por tipo de producto si el usuario lo solicita.
-
-2.  **Identificación de Datos Clave:**
-    Por cada documento, identifica:
-    - Nombre del Banco.
-    - Tipo de Producto / Categoría.
-    - Fecha de vigencia del tarifario.
-
-3.  **Mantenimiento del Inventario:**
-    Actualiza el archivo `Estado_Extraccion.txt` o crea uno nuevo llamado `Inventario_Productos.md` que liste qué productos han sido actualizados por cada banco.
+Clasificación de documentos:
+1. **Crea una carpeta que diga tarifarios descargados con la fecha:** Mueve todos los archivos PDF originales a esta carpeta para su resguardo.
+2. **Tarifarios transformados en texto para su consumo eficiente:** Convierte los PDFs a archivos de texto `.txt` (usando herramientas como Xpdf) y guárdalos en otra carpeta o estructurados para que el agente o usuario pueda realizar comparaciones rápidas.
+3. **Mantenimiento del Inventario:** Actualiza el archivo de inventario que liste qué productos han sido actualizados por cada banco.
 
 ## Resultado Esperado
 Un repositorio de tarifarios perfectamente clasificado donde el usuario pueda localizar rápidamente las tasas de un producto específico (ej: "DPF") entre todos los bancos analizados.
