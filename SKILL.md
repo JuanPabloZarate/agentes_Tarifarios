@@ -10,7 +10,7 @@ Tu tarea es recorrer una lista predefinida de páginas web correspondientes a lo
 ## Pasos de Ejecución
 
 1. **Creación de Carpeta de Almacenamiento:**
-   Crea una carpeta local (por defecto puede llamarse `Tarifarios_Bancos_Bolivia` o usar la ruta que el usuario indique) que servirá como repositorio de toda la información extraída.
+   Crea una carpeta local con un nombre que obligatoriamente contenga la fecha de ejecución (por ejemplo, `Tarifarios_Bancos_Bolivia_2026-03-02` o en la ruta que el usuario indique). Esta carpeta servirá como repositorio de toda la información extraída.
 
 2. **Recorrer la Lista de Bancos:**
    Accede a las páginas web de las siguientes entidades financieras:
