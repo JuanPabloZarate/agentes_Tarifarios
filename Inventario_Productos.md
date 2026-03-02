@@ -8,14 +8,10 @@ Este documento organiza los productos identificados en la recopilación de tarif
 | :--- | :--- | :---: | :--- | :---: |
 | **BDP** | Sector Productivo (Micro) | 2024 / 2025 | 11.5% (Tasa Interés) | Web |
 | **BDP** | Sector Comercio (Micro) | 2024 / 2025 | 16.0% (Tasa Interés) | Web |
+| **PRODEM** | Caja de Ahorro (Pro Cuenta) | 2026 | 2.00% a 6.00% (Anual) | PDF Extraído |
+| **PRODEM** | Crédito Pro Negocio (Micro) | 2026 | 24.50% - 29.50% (No Prod.) / 7.00% - 11.50% (Prod.) | PDF Extraído |
+| **PRODEM** | Crédito Pyme (Estacional) | 2026 | 15.00% - 29.50% (No Prod.) / 7.00% - 11.50% (Prod.) | PDF Extraído |
 | **BCP** | Crédito Efectivo / Consumo | 2025 | 30.00% (Tasa Interés Bs) | Web |
-| **BCP** | Crédito Vehicular | 2025 | 12.99% a 21.00% | Web |
-| **BCP** | Vivienda Interés Social | 2025 | 5.50% a 6.50% | Web |
-| **PRODEM** | Caja de Ahorro | 2025 | Consultar PDF | PDF |
-| **PRODEM** | DPF | 2025 | Consultar PDF | PDF |
-| **FIE** | Tasa Activa (Microcrédito) | 2026 | Consultar PDF | PDF |
-| **BMSC** | Tarifario General | 2026 | Comisiones por servicios | PDF |
-| **BNB** | Tarifario General | 2026 | Comisiones por servicios | PDF |
 
 ## 📁 Clasificación de Documentos en Carpeta
 
