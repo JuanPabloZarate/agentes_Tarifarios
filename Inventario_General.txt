@@ -1,0 +1,31 @@
+﻿INVENTARIO GENERAL DE TARIFARIOS ACTUALIZADOS (2026-03)
+------------------------------------------------------
+Lista de documentos organizados para consulta rápida:
+
+BANCO                     PRODUCTO / CATEGORÍA        VIGENCIA     TARIFA (EJEMPLO)
+------------------------- --------------------------- ------------ ---------------------
+Banco BNB                 Tarifario Normado (Gen)     2026         Comisiones Segun PDF
+Banco Mercantil           Tarifario General           2026         Comisiones Segun PDF
+Banco Bisa                Tarifario Actualizado       2026         Comisiones Segun PDF
+Banco BCP                 Credito Consumo             2025         30.00%
+Banco BCP                 Credito Vehicular           2025         12.99% a 21.00%
+Banco BCP                 Vivienda Social             2025         5.50% a 6.50%
+Banco Economico           Comisiones / Servicios      2026-02      Comisiones Segun PDF
+Banco Economico           Tasas (Activa/Pasiva)       2026-02      Tasa Segun PDF
+Banco Ganadero            Tarifario General           2026         Tasa Segun PDF
+Banco Solidario           Tarifario Interés           2026-01      Tasa Segun PDF
+Banco FIE                 Tasas Activas               2026-01      Tasa Segun PDF
+Banco FIE                 Tasas Pasivas               2026-02      Tasa Segun PDF
+Banco FIE                 Servicios Compl.            2026-02      Comisiones Segun PDF
+Banco Fortaleza           Tasas y Comisiones          2026-02      Tasa Segun PDF
+Banco Prodem              Tarifario Servicios         2025         Comisiones Segun PDF
+Banco Prodem              Créditos (Bs)               2025         Tasa Segun PDF
+Banco Prodem              Créditos (USD)              2025         Tasa Segun PDF
+Banco Prodem              Caja de Ahorro              2025         Tasa Segun PDF
+Banco Prodem              DPF                         2025         Tasa Segun PDF
+Banco Prodem              Boletas de Garantía         2024         1.00% (Referencial)
+Banco Nacion Argentina    Tarifario General           2025-06      Comisiones Segun PDF
+Banco Unión               Servicios / Comisiones      2025         Comisiones Segun PDF
+Banco Unión               Tasas de Interés            2025         Tasa Segun PDF
+Banco BDP                 Sector Productivo           2025         11.50% (Micro)
+Banco BDP                 Sector Comercio             2025         16.00% (Micro)
